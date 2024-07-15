@@ -40,3 +40,6 @@
 [![music](https://almaty.tv/news_photo/1638002982_news_b.webp)](https://youtu.be/K5DALXwOe0s?si=Np6KiCGQESoPaTxk)
 *нажмите на картину и откройте его*
 
+- строка 1
+- строка 2
+
